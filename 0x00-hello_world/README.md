@@ -1,5 +1,5 @@
 # This repo contains file for the hello world module in ALX's c course as follows:
-0 - runs a c file through preprocessor and saves results in another file.
+0 - runs a c file through preprocessor and saves results in another file.\n
 1 - compiles a c file but does not link
 2 - generate assembly code and save it to a file
 3 - compile a c file and create a named exe
